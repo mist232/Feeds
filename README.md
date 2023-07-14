@@ -13,17 +13,14 @@ Android Application Contains:
 <strong>The unsplash API is used here for fetching random images and use 'latest button' to refresh the new images</strong>
 <br>
 <strong>Images</strong><br>
+1. Tutorial Screens <br>
+<img src="https://github.com/mist232/Feeds/assets/93175201/b7af00bc-7790-40ba-9660-bb0f1bfa3d7f" align ="left" width=20% height=20%>    
+<img src="https://github.com/mist232/Feeds/assets/93175201/51f9b391-f7f8-4fdd-b13b-fbf2eadd7052" align="center" width=20% height=20%>
+<img src="https://github.com/mist232/Feeds/assets/93175201/673b3164-6b83-4d84-bf9e-3733db392a32" align="center" width=20% height=20%><br>
+<br>
 
-![intro1](https://github.com/mist232/Feeds/assets/93175201/b7af00bc-7790-40ba-9660-bb0f1bfa3d7f)    
-
-![intro2](https://github.com/mist232/Feeds/assets/93175201/673b3164-6b83-4d84-bf9e-3733db392a32)<br>
-
-
-![intro3](https://github.com/mist232/Feeds/assets/93175201/51f9b391-f7f8-4fdd-b13b-fbf2eadd7052)   
-
-![upload](https://github.com/mist232/Feeds/assets/93175201/0144b514-32e8-4aca-95c5-1f5738eab915)<br>
-
-
-![home2jpg](https://github.com/mist232/Feeds/assets/93175201/33ba0519-6f70-4532-a35f-271cf0351079)
+2. Feed screens and  Upload Image Screens
+<img src="https://github.com/mist232/Feeds/assets/93175201/0144b514-32e8-4aca-95c5-1f5738eab915" align ="left" width=20% height=20%>
+<img src="https://github.com/mist232/Feeds/assets/93175201/33ba0519-6f70-4532-a35f-271cf0351079" align="center" width=20% height=20%>
 
 
