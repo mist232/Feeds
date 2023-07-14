@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginStart="20dp"
+    android:layout_marginTop="0dp"
+
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="423dp">
+<ImageView
+
+                    android:id="@+id/image_view"
+                    android:layout_width="370dp"
+                    android:layout_height="400dp"
+                    android:layout_marginTop="0dp"
+                    android:scaleType="centerCrop">
+</ImageView>
+
+</RelativeLayout>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Feeds</string>
+    <string name="skip_intro">Skip intro</string>
+    <string name="headline">
+        About Us
+    </string>
+
+    <string name="body">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+        </string>
+    <string name="our_mission">Our Mission</string>
+    <string name="our_vision">Our Vision</string>
+    <string name="Welcome_Ayush">
+        Welcome Ayush
+    </string>
+    <string name="feeds">
+        Feeds
+    </string>
+    <string name="upload_image">Upload Image</string>
+    <string name="select_image">Select Image</string>
+    <string name="upload_imag">
+        Upload Image\n
+    </string>
+    <string name="hello_ayush">
+            Hello,
+        </string>
+    <string name="ay">Ayush</string>
+    <string name="explore">
+            Explore
+    </string>
+    <string name="browse_by">
+            Browse By
+        </string>
+    <string name="latest">
+            Latest
+        </string>
+    <string name="older">Older</string>
+</resources>
