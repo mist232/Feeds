@@ -10,4 +10,4 @@ Android Application Contains:
 <t>o Feed should contain 10 images fetched by API and change on every refresh in a recycler view.<br>
 4. Upload Image: When clicked, the user should be redirected to the new screen.<br>
 <t>o User can select the image from the gallery<br>
-The unsplash API is used here for fetching random images
+The unsplash API is used here for fetching random images and <strong>use latest button to refresh the new images</strong>
